@@ -1,4 +1,2 @@
-## 🛠 Tekiter 🛠
-
-#### Currently working on...
-[2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19)
+#### 🛠 Currently working on...
+[2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19) [\[Repo\]](https://github.com/osamhack2020/WEB_LeaveOutSystem_Div-7)
