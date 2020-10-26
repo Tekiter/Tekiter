@@ -1,5 +1,7 @@
 ### 🛠 Currently working on...
-[2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19) [\[Repo\]](https://github.com/osamhack2020/WEB_LeaveOutSystem_Div-7)
+[2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=osamhack2020&repo=WEB_LeaveOutSystem_Div-7)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Github Stats
 [![Tekiter's github stats](https://github-readme-stats.vercel.app/api?username=tekiter&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
