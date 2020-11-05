@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Tistory-Tech%20Blog-2671bd?style=flat-square">
+
 ### 📦 Waiting for Result...
 [2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19)
 
@@ -8,4 +10,3 @@
 
 ### 🏅 Solved.ac Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon08)](https://solved.ac/geon08)
-
