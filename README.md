@@ -1,8 +1,5 @@
 <a href="https://tekiter.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech%20Blog-2671bd?style=flat-square"></a>
 
-### 📦 Waiting for Result...
-[2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=osamhack2020&repo=WEB_LeaveOutSystem_Div-7)](https://github.com/osamhack2020/WEB_LeaveOutSystem_Div-7)
 
 ### 📊 Github Stats
