@@ -8,5 +8,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon08)](https://solved.ac/geon08)
 
 ### ✨ Experience
-* 대학생 연합동아리 SOPT 29th (2021.09 ~ 2022.01)
+* 대학생 연합동아리 SOPT 29th Web Frontend (2021.09 ~ 2022.01)
 * 당근마켓 윈터테크 Node.js 서버 인턴 (2022.01 ~ 2022.03)
