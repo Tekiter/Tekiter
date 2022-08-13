@@ -10,3 +10,4 @@
 ### ✨ Experience
 * 대학생 연합동아리 SOPT 29th Web Frontend (2021.09 ~ 2022.01)
 * 당근마켓 윈터테크 Node.js 서버 인턴 (2022.01 ~ 2022.03)
+* 카카오 Tech 인턴십 Web Frontend (2022.07 ~ 2022.08)
