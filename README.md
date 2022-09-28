@@ -7,13 +7,14 @@
 ### 🏅 Solved.ac Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon08)](https://solved.ac/geon08)
 
-### ✨ Experience
-* 교내 정보보안 기관동아리 CAT_Security (2018.03 ~ 2020.03)
-* 대학생 연합동아리 SOPT 29th Web Frontend (2021.09 ~ 2022.01)
-* 대학생 연합동아리 SOPT Makers 초기멤버 (2022.03 ~ 2022.09)
-* 대학생 연합동아리 SOPT Makers 1기 (2022.09 ~ NOW)
+### 🚀 Activity
 
-----
+* 교내 정보보안 기관동아리 CAT-Security (2018.03 ~ 2020.03)
+* 대학생 연합동아리 [SOPT](https://sopt.org/) 29th Web Frontend (2021.09 ~ 2022.01)
+* 대학생 연합동아리 [SOPT](https://sopt.org/) Makers 초기멤버 (2022.03 ~ 2022.09)
+* 대학생 연합동아리 [SOPT](https://sopt.org/) Makers 1기 (2022.09 ~ NOW)
+
+### ✨ Experience
 
 * 당근마켓 윈터테크 Node.js 서버 인턴 (2022.01 ~ 2022.03)
 * 카카오 Tech 인턴십 Web Frontend (2022.07 ~ 2022.08)
