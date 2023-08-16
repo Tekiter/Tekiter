@@ -18,3 +18,4 @@
 
 * 당근마켓 윈터테크 인턴십 Node.js Server (2022.01 ~ 2022.03)
 * 카카오 Tech 인턴십 Web Frontend (2022.07 ~ 2022.08)
+* 토스증권 Web Frontend (2023.09 ~ NOW)
