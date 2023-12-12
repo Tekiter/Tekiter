@@ -14,10 +14,9 @@
 
 ### 🚀 Activity
 
-* 교내 정보보안 기관동아리 CAT-Security (2018.03 ~ 2020.03)
-* 대학생 연합동아리 [SOPT](https://sopt.org/) 29기 Web Frontend 파트 (2021.09 ~ 2022.01)
-* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 초기멤버 (2022.03 ~ 2022.09)
-* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 1기 (2022.09 ~ 2023.01)
-* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 2기 (2023.02 ~ 2023.08)
 * 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 3기 (2023.09 ~ NOW)
-
+* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 2기 (2023.02 ~ 2023.08)
+* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 1기 (2022.09 ~ 2023.01)
+* 대학생 연합동아리 [SOPT Makers](https://github.com/sopt-makers) 초기멤버 (2022.03 ~ 2022.09)
+* 대학생 연합동아리 [SOPT](https://sopt.org/) 29기 Web Frontend 파트 (2021.09 ~ 2022.01)
+* 교내 정보보안 기관동아리 CAT-Security (2018.03 ~ 2020.03)
