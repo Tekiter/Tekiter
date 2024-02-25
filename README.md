@@ -2,6 +2,7 @@
 
 <a href="https://velog.io/@tekiter"><img src="https://img.shields.io/badge/-Tech%20Blog-2671bd?style=flat-square"></a>
 <a href="https://tekiter.github.io/shields-craft"><img alt="" src="https://img.shields.io/badge/-Create_Your_Badge-blueviolet?style=flat-square"></a>
+<a href="https://kirby-roulette.pages.dev"><img alt="" src="https://img.shields.io/badge/-Kirby_Roulette-E577C0?style=flat-square"></a>
 
 ### 🏅 Solved.ac Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon08)](https://solved.ac/geon08)
